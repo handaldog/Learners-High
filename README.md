@@ -75,10 +75,10 @@
 ## 👩‍🏫 강사 페이지
 <img src="https://github.com/handaldog/Learners-High/assets/96431408/ebcdc605-7985-4c25-a7f9-7493776da715" width="300" height="400">&nbsp;<img src="https://github.com/handaldog/Learners-High/assets/96431408/70e06fe9-40e6-40b9-90d4-dc507fdb7f2a" width="300" height="400">&nbsp;
 
-## 🙋‍♀️ 선생님 강의 화면
+## 🙋‍♀️ 학생 강의 화면
 <img src="https://github.com/handaldog/Learners-High/assets/96431408/641dd9b4-5e2f-4162-b0a0-ec823875e1cf" width="500" height="300">&nbsp;
 
-## 👨‍💻 학생 강의 화면
+## 👨‍💻 선생님 강의 화면
 <img src="https://github.com/handaldog/Learners-High/assets/96431408/cdad51e5-9a42-495b-8f85-517ecb03c0d4" width="500" height="300">&nbsp;<img src="https://github.com/handaldog/Learners-High/assets/96431408/98eab2d8-a59d-4c03-b497-93fe6d357bc5" width="500" height="300">&nbsp;
 
 
